@@ -2,5 +2,19 @@
 
 .odd {
     background-color:#FF7F7F;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Verdana, Tahoma, sans-serif, DejaVu Sans;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#elem2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.font24 {
+    font-size: 24px;
+}
+
+#elem4 {
+    background-color: lightgreen;
+    font-weight: bold;
 }
